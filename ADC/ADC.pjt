@@ -1,0 +1,26 @@
+[PROJECT]
+Target=C:\Users\Renato\Documents\TCC\ADC\ADC.hex
+Development_Mode=
+Processor_Text=DSPIC33FJ128MC802
+ToolSuite=CCS
+Processor=0x0103
+[C:\Users\Renato\Documents\TCC\ADC\ADC]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=C:\Users\Renato\Documents\TCC\ADC\ADC.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=C:\Users\Renato\Documents\TCC\ADC\ADC
+[Opened Files]
+1=ADC.c
+2=..\..\..\..\..\Program Files\PICC\devices\33FJ128MC802.h
+3=ADC.h
+4=

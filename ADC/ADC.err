@@ -1,0 +1,11 @@
+>>> Warning 202 "ADC.c" Line 19(24,27): Variable never used:   un2
+>>> Warning 202 "ADC.c" Line 19(50,53): Variable never used:   en2
+>>> Warning 202 "ADC.c" Line 20(26,29): Variable never used:   led
+>>> Warning 202 "ADC.c" Line 21(41,46): Variable never used:   unaux
+>>> Warning 202 "ADC.c" Line 21(48,56): Variable never used:   Digital1
+>>> Warning 202 "ADC.c" Line 22(5,10): Variable never used:   count
+>>> Warning 202 "ADC.c" Line 22(14,19): Variable never used:   value
+>>> Warning 202 "ADC.c" Line 22(33,42): Variable never used:   flagcount
+>>> Warning 202 "ADC.c" Line 22(45,46): Variable never used:   i
+      Memory usage:   ROM=5%      RAM=1% - 1%
+      0 Errors,  9 Warnings.

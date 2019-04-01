@@ -1,0 +1,59 @@
+
+ROM used: 4416 (5%)
+          4416 (5%) including unused fragments
+
+          1 Average locations per line
+          4 Average locations per statement
+
+RAM used: 188 (1%) at main() level
+          194 (1%) worst case
+
+Stack used: 3 worst case (out of 31 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  411   151  14  ADC.c
+   53     0   0  ADC.h
+  720     0   0  ..\..\..\..\..\Program Files\PICC\devices\33FJ128MC802.h
+ 2182   898  86  ..\..\..\..\..\Program Files\PICC\drivers\math.h
+----- -----
+ 3366  1049 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0    104   1   8             @FLT
+0     44   0   4             @SFTOI
+0     58   1   2             @ITOF
+0    196   2   8             @MULFF
+0    416   5   8             @ADDFF
+0     74   1   2             @SITOF
+0    284   3   5   727  6.6  TIMER_isr
+0   2092  24   2  7114  6.0  CNI_isr
+0    158   2   0   248  2.3  zera_pwm
+0     34   0   0   346  1.9  inicializa_oscilador
+0    264   3   0   920  2.4  inicializa_perifericos_variaveis
+0     22   0   0   119  1.7  inicializa_interrupcao
+0    140   2   0    70  1.3  MAIN
+0     18   0   0             @const525
+
+Program metrics:
+    Functions               7
+    Statements              1049
+    Comments                596
+    Volume (V)              11704
+    Difficilty (D)          23.1
+    Effort to implement (E) 270374
+    Time to implement (T)   4 hours, 10 minutes
+    Est Delivered Bugs (B)  1
+    Cyclomatic Complexity   13
+    Maintainability (MI)    100
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-001FE   508  0  
+00200-0FFFE  3904  61120  
+10000-157FE     0  22528  
+
+
+
